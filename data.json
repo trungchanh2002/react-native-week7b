@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Nguyễn Thị Mộc",
+      "image":"post-1.png"
+    },
+    {
+      "id": 2,
+      "name": "Nugyễn Minh Duy",
+      "image":"post-2.png"
+      
+    },
+    {
+      "id": 3,
+      "name": "Bui Ngoc Tung ",
+      "image":"post-3.png"
+    }
+  ]
+}
